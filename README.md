@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello my name is TeRina!
+## Welcome to my profile!
 
-<!--
-**WhaeaTKV/WhaeaTKV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAxQZiVy4YZuaN1zO0-h3Fn7p3aTeYYIayQg&s)
 
-Here are some ideas to get you started:
+My Hobbies are:
+Reading
+Gaming
+and listening to podcasts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I chose Digital Tech... because I want to learn about coding.
+I am very interested in Digital Technology.
+
+I know how to use tools like Visual Studio Code, Blender and more!
+
+
