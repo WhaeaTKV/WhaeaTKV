@@ -13,4 +13,4 @@ I am very interested in Digital Technology.
 
 I know how to use tools like Visual Studio Code, Blender and more!
 
-
+![A black cat looking cute!](black_cat_02.jpg)
